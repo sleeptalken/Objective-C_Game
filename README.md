@@ -1,8 +1,8 @@
-SIMPLE STACK CALCULATOR
+OBJECTIVE-C_GAME
 
 Author: William Christian
-File: ssc.cc
-Date: 03/19/2014
-Class: CPSC5135U
-Simple Stack Calculator is a Reverse Polish Notation Calculator
-for rational numbers.
+Date: 03/19/2013
+This Objective-C Game is a text-based game involving certain
+methods to allow the user to manipulate items (such as pick up,
+drop, equip, unequip, etc) throughout different rooms to achieve 
+the main goal: to access all three keys and defeat the final boss.
